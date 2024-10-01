@@ -1,0 +1,26 @@
+.roton label {
+    color: plum;
+    font-size: 15px;
+}
+
+.login_body {
+    color: red;
+    background-color: lightskyblue;
+    height: 320px;
+    width: 280px;
+}
+
+.btn {
+    transition: all 0.3s ease; 
+}
+
+.btn:hover {
+    color: whitesmoke;
+    background-color: black;
+    font-size: 30px;
+    width: 270px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
